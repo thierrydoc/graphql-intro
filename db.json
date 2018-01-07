@@ -3,38 +3,36 @@
     {
       "id": "23",
       "firstName": "William",
-      "age": 20,
-      "companyId": "1"
+      "age": 20
     },
     {
       "id": "47",
       "firstName": "Bruno",
-      "age": 40,
-      "companyId": "1"
+      "age": 40
     },
     {
       "id": "56",
       "firstName": "Monaon",
-      "age": 37,
-      "companyId": "2"
+      "age": 37
     },
     {
       "id": "89",
       "firstName": "Shirin",
-      "age": 32,
-      "companyId": "2"
+      "age": 32
     }
   ],
-  "companies": [
+  "posts": [
     {
       "id": "1",
-      "name": "Apple",
-      "description": "iphone"
+      "name": "An Apple story",
+      "description": "iphone",
+      "userId": "23"
     },
     {
       "id": "2",
-      "name": "Google",
-      "description": "search"
+      "name": "A Google story",
+      "description": "search",
+      "userId": "23"
     }
   ]
 }
